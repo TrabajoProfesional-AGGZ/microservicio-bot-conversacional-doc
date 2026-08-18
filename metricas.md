@@ -1,26 +1,27 @@
 ---
 layout: default
 title: Métricas de la implementación
-nav_order: 5
+nav_order: 99
 ---
 
-# 📊 Métricas de la implementación
+# 📊 Métricas de la implementación (Automáticas)
 
-Este espacio está destinado a medir el trabajo, la participación y el progreso del equipo en el desarrollo de BotIn. Los siguientes datos combinan métricas en tiempo real conectadas a la API de GitHub con un análisis estático de la distribución del repositorio.
+Este espacio está destinado a medir el trabajo, la participación y el progreso del equipo en el desarrollo de esta implementación. Estos datos se actualizan automáticamente mediante el avance del desarrollo.
 
 ## Resumen del repositorio
 
-* **Actividad de commits:** ![Commits](https://img.shields.io/github/commit-activity/y/trabajoprofesional-aggz/microservicio-bot-conversacional)
-* **Pull Requests cerrados:** ![PRs](https://img.shields.io/github/issues-pr-closed/trabajoprofesional-aggz/microservicio-bot-conversacional)
-* **Issues resueltos:** ![Issues](https://img.shields.io/github/issues-closed/trabajoprofesional-aggz/microservicio-bot-conversacional)
-* **Última versión:** ![Release](https://img.shields.io/github/v/release/trabajoprofesional-aggz/microservicio-bot-conversacional)
+* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-39-blue)
+* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-4-purple)
+* **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-9-green)
 
 ## Composición del código (Lenguajes)
 
-Basado en el análisis automático del repositorio, la distribución tecnológica de este microservicio es la siguiente:
+Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* 🔵 **Python:** 98.4%
-* ⚪ **Other:** 1.6%
+* 🔵 **Python:** 98.7%
+* 🐳 **Dockerfile:** 0.7%
+* 🟠 **HTML:** 0.3%
+* 🔴 **Ruby:** 0.3%
 
 ## Distribución del trabajo (Contributors)
 
@@ -28,7 +29,8 @@ A continuación se detalla la participación de cada miembro del equipo basándo
 
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
-| **Ascencio, Felipe Santino (`FelipeAscencio`)** | 18 | 810 | 174 |
-| **Guerrero, Martín (`marttinguerrero`)** | 4 | 793 | 89 |
+| **Ascencio, Felipe Santino** (`FelipeAscencio`) | 27 | 1.052 | 191 |
+| **Guerrero, Martín** (`marttinguerrero`) | 5 | 1.046 | 227 |
+| **Ghosn, Lautaro Gabriel** (`LGhosn`) | 3 | 10 | 6 |
 
-*(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado realizadas por herramientas como `dependabot`).*
+*(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado realizadas por herramientas como dependabot).*
