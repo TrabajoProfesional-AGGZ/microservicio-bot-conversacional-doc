@@ -10,7 +10,7 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 
 ## Resumen del repositorio
 
-* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-48-blue)
+* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-49-blue)
 * **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-12-purple)
 * **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-15-green)
 
@@ -18,7 +18,7 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 
 Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* 🔵 **Python:** 99.4%
+* 🔵 **Python:** 99.5%
 * 🐳 **Dockerfile:** 0.3%
 * 🟠 **HTML:** 0.1%
 * 🔴 **Ruby:** 0.1%
@@ -30,7 +30,7 @@ A continuación se detalla la participación de cada miembro del equipo basándo
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
 | **Ascencio, Felipe Santino** (`FelipeAscencio`) | 25 | 1.063 | 193 |
-| **Guerrero, Martín** (`marttinguerrero`) | 15 | 1.709 | 317 |
+| **Guerrero, Martín** (`marttinguerrero`) | 16 | 1.828 | 327 |
 | **Ghosn, Lautaro Gabriel** (`LGhosn`) | 7 | 293 | 58 |
 | **Zielonka, Axel** (`axel-zielonka`) | 1 | 14 | 5 |
 
